@@ -1,2 +1,2 @@
 # selamatmalam
-love-night-malam
+love/night/malam
